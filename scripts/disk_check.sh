@@ -6,4 +6,4 @@ df -h
 
 echo ""
 echo "Root filesystem usage:"
-df -INVALID / | tail -1
+df -h / | tail -1
